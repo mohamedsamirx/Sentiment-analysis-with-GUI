@@ -8,7 +8,6 @@ This repository is  a college project that includes Logistic Regression, BERT, V
    - Generate the models.
    - Explore the dataset.
 
-   Kaggle notebook link: [https://www.kaggle.com/code/mohamedsamirx/social-data-analytics]
 
 2. The dataset used is [IMDB Dataset of 50K Movie Reviews]. You can find it at: [https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews].
 
